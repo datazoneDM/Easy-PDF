@@ -25,3 +25,22 @@
 3. **상업적 이용:** 기업 사용자가 소스 코드 공개를 원치 않을 경우, [iText 공식 홈페이지](https://itextpdf.com/products/itextsharp)를 통해 별도의 상업용 라이선스(Commercial License)를 취득해야 합니다.
 
 * **iText 7 License 정보:** [https://itextpdf.com/en/how-it-works/agpl-license](https://itextpdf.com/en/how-it-works/agpl-license)
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This project uses iText 7.
+
+iText 7 is licensed under the GNU Affero General Public License (AGPL) v3.
+Copyright (c) iText Software.
+
+If you use this software over a network or distribute it,
+you must provide access to the complete corresponding source code
+as required by the AGPL license.
+
+Source Code:
+https://github.com/datazoneDM/EasyPDF2-Splitter
+
+For more information about iText licensing:
+https://itextpdf.com

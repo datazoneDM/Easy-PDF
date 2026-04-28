@@ -40,7 +40,7 @@ you must provide access to the complete corresponding source code
 as required by the AGPL license.
 
 Source Code:
-https://github.com/datazoneDM/EasyPDF2-Splitter
+https://github.com/datazoneDM/Easy-PDF
 
 For more information about iText licensing:
 https://itextpdf.com
